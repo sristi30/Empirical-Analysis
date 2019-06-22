@@ -9,3 +9,5 @@ This project is divided into 4 parts.
 Detailed analysis is provided in report.pdf
 
 The code currently only contains Part 3
+
+The code Classification Imbalanced datasets.ipynb uses data from https://www.kaggle.com/mlg-ulb/creditcardfraud
